@@ -1,7 +1,6 @@
 package com.example.commerce.dto;
 
 import com.example.commerce.entities.Product;
-import jakarta.persistence.Column;
 
 public class ProductDTO {
     private Long id;
